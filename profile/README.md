@@ -2,3 +2,6 @@
 
 ## Welcome
 Hello guys, my name is omaniell0 and I program stuff myself!
+
+# Languages
+<img src="python_logo.png" alt="Python Logo" width="200" height="200" />
