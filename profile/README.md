@@ -3,16 +3,6 @@
 ## Welcome
 Hello guys, my name is omaniell0 and I program stuff myself!
 
-<div align="center">
-
-  <!-- Logo -->
-  <img src="py.png" alt="Python Logo" width="100" height="100" />
-
-  <!-- Profile / Project Title -->
-  <h1>Indie Programmer Beer Juse</h1>
-  <p><b>Crafting clean code and lightweight Python tools.</b></p>
-
-  <!-- Profile Views Counter -->
   <p>
     <img src="https://komarev.com/ghpvc/?username=Indie-Programmer-Beer-Juse&color=3776AB&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </p>
