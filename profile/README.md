@@ -36,27 +36,3 @@ Hello guys, my name is omaniell0 and I program stuff myself!
 </div>
 
 <hr />
-
-<h2>📌 Overview</h2>
-<p>
-  Welcome to my GitHub profile! I build full-stack applications, interactive modules, and Python utilities.
-</p>
-
-<h2>✨ Featured Projects</h2>
-<ul>
-  <li>🐍 <b>Python Utilities:</b> Custom scripts and automated tools.</li>
-  <li>🍺 <b>Web Applications:</b> Interactive frontends and backend services.</li>
-</ul>
-
-<h2>🛠️ Tech Stack</h2>
-<p>
-  <code>Python</code> • <code>JavaScript</code> • <code>HTML5</code> • <code>CSS3</code> • <code>Git</code>
-</p>
-
-<hr />
-
-<div align="center">
-  <p><sub>Powered by Python 🐍 | Profile link: <a href="https://github.com/Indie-Programmer-Beer-Juse">Indie-Programmer-Beer-Juse</a></sub></p>
-</div>
-
-  
